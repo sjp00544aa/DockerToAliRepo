@@ -15,9 +15,9 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-openjdk:8-jre-alpine
+eclipse-temurin:8-jre-alpine
 nginx:alpine
-openjdk:8-jre-slim
+eclipse-temurin:8-jre
 
 
 
