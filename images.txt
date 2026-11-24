@@ -1,2 +1,2 @@
-maven:3.9-eclipse-temurin-21
-python:3.11-slim
+eclipse-temurin:21-jre
+node:20-alpine
